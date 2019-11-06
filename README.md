@@ -2,6 +2,7 @@
 Part of  App 'MindStone-D' made for service learning project. 
 This app is a health development app for helping mentally ill people to improve their health.We have done survey of people who used the app.
 The app has 5 parts: KnowThyself, Monitor Youself, Mood Lifter, Survival management and Contact for help.
+
 Find the full build app at: https://github.com/urvi367/Mindstone-D
 <h2>konw-thyself</h2>
 KnowThyself - this helps in finding the personality of the user by asking them question based on site questions:
